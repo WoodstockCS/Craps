@@ -8,7 +8,7 @@ Part 1:
 
 Part 2:
 - Do pg 157 number 2. This includes updating the `Die` class and also creating a new `DieTest` class with the mentioned `main` method to test it out.
-- Do pg 157 number 3. Have the stats engine play your game 10 times, then 100 times, then 1000 times. How fast does it take for the stats engine to play your game 10,000 times?
+- Do pg 157 number 3. Have the stats engine play your game 10 times, then 100 times, then 1000 times. Check how fast it takes for the stats engine to play your game 10,000 times.
 
 Part 3:
 - Read pgs 163-166.
